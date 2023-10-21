@@ -20,3 +20,4 @@
 </div>
 
 
+![Snake animation](https://github.com/Kaue-cc/Kaue-cc/blob/output/github-contribution-grid-snake.svg)

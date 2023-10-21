@@ -24,3 +24,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaue-cc&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaue Correa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-cc&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Snake animation](https://github.com/Kaue-cc/blob/output/github-contribution-grid-snake.svg)
+

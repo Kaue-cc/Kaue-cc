@@ -26,7 +26,7 @@ jobs:
 
       # generates a snake game from a github user (<Kaue-cc>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Kaue-cc
         with:
           github_Kaue-cc: ${{ github.Kaue-cc }}
           outputs: |

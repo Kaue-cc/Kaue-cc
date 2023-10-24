@@ -1,7 +1,7 @@
 # Kauê Corrêa Colling
 
 <div align="center">
-  <img height="320em" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-3.gif"/>
+  <img height="320em" src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif"/>
 </div>
 
 #### 👩‍💻 Back-End

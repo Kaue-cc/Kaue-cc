@@ -62,4 +62,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-cc&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
+<div align="center">
+  <img height="320em" src="https://i.pinimg.com/originals/3d/9d/ac/3d9dac11d059c4dbbf07941331bf4c2e.gif"/>
+</div>

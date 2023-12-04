@@ -1,7 +1,7 @@
 # Kauê Corrêa Colling
 
 <div align="center">
-  <img height="320em" src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif"/>
+  <img height="320em" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"/>
 </div>
 
 #### 👩‍💻 Back-End

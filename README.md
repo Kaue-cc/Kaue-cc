@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img height="320em" src="https://assets.pinterest.com/ext/embed.html?id=980658887590939037"/>
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=980658887590939037" height="760" width="600" frameborder="0" scrolling="no" ></iframe>
   
   <img height="320em" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"/>
   

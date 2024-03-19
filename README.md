@@ -1,15 +1,6 @@
 # Kauê Corrêa Colling 
 
-<section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
+[![Des date pickers plus agréables en react native avec date-fns ?](https://ytcards.demolab.com/?id=Yhwwfw_MnNw&title=Des+date+pickers+plus+agr%C3%A9ables+en+react+native+avec+date-fns+%3F&lang=en&timestamp=1706274032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=500 "Des date pickers plus agréables en react native avec date-fns ?")](https://www.youtube.com/watch?v=Yhwwfw_MnNw)
 
 <div align="center">
    

@@ -1,9 +1,12 @@
 # Kauê Corrêa Colling 
 
-### “A programação é como escrever um romance. Só que com mais bugs.”
+<div>
+     ### “A programação é como escrever um romance. Só que com mais bugs.”
 > Demetri Martin
      
-   <img align="right" height="320em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
+  <img align="right" height="320em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
+  
+</div>
 
 #### 👩‍💻 Back-End
 

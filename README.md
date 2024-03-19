@@ -1,5 +1,16 @@
 # Kauê Corrêa Colling 
 
+<section data-markdown>
+  <textarea data-template>
+    # Testing 
+    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+    </div>
+  </textarea>
+</section>
+
 <div align="center">
    
    <img height="320em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>

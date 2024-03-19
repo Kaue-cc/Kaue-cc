@@ -1,7 +1,6 @@
 # Kauê Corrêa Colling 
 
-[![“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs]()]([https://www.youtube.com/watch?v=Yhwwfw_MnNw](https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"))
-
+[![“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs]()
 <div align="center">
    
    <img height="320em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>

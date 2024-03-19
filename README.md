@@ -1,6 +1,6 @@
 # Kauê Corrêa Colling 
 
-[![“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs](https://ytcards.demolab.com/?id=Yhwwfw_MnNw&title=Des+date+pickers+plus+agr%C3%A9ables+en+react+native+avec+date-fns+%3F&lang=en&timestamp=1706274032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=500 "“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs")]([https://www.youtube.com/watch?v=Yhwwfw_MnNw](https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"))
+[![“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs]()]([https://www.youtube.com/watch?v=Yhwwfw_MnNw](https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"))
 
 <div align="center">
    

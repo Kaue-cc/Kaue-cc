@@ -3,11 +3,8 @@
 <div align="center">
 
    <h3>“A programação é como escrever um romance. Só que com mais bugs.”</h3>
+   > Text that is a quote
      >     Demetri Martin
-
-Text that is not a quote
-
-> Text that is a quote
      
    <img height="320em" with="30em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
 

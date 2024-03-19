@@ -1,6 +1,6 @@
 # Kauê Corrêa Colling 
 
-<div align="center display: flex-row;">
+<div align="center" style="display: flex;">
 
    <h3 with="30em">“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs </h3>
    

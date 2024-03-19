@@ -1,20 +1,9 @@
 # Kauê Corrêa Colling 
 
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-# 🍕 bdougie's Top 8 Page🍕
-
-## bdougie has <!-- follower-counter -->2241<!-- /follower-counter --> followers
-
-<div align="center">
-
 ### “A programação é como escrever um romance. Só que com mais bugs.”
 > Demetri Martin
      
-   <img height="320em" with="30em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
-
-</div>
+   <img align="right" height="320em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
 
 #### 👩‍💻 Back-End
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   <h3>“A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não o encontrou, continue procurando. Não se acomode.” - Steve Jobs </h3>
+   <h3>“A programação é como escrever um romance. Só que com mais bugs.” - Demetri Martin</h3>
    <img height="320em" with="30em" src="https://i.pinimg.com/originals/ff/ca/24/ffca24e79820ecf08752c0ab6d02d8a6.gif"/>
 
 </div>

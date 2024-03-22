@@ -89,10 +89,6 @@
   
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaueColling&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaueColling&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d111)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
 
   <img height="200em" src="https://i.pinimg.com/originals/c6/44/71/c644715b76a7f65e53d1b279fbac4efe.gif"/>

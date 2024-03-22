@@ -89,7 +89,7 @@
   
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mgckaled&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaueColling&layout=compact&bg_color=0d1117")](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 

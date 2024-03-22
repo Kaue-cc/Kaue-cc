@@ -89,6 +89,8 @@
   
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mgckaled&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 
   <img height="200em" src="https://i.pinimg.com/originals/c6/44/71/c644715b76a7f65e53d1b279fbac4efe.gif"/>

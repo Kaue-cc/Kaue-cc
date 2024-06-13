@@ -76,9 +76,8 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueColling&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-  <img width="41%" height="195px" color="#0d1117" src="https://github-readme-streak-stats.herokuapp.com/?user=kauecolling&?username=KaueColling&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   
 </div>
 
-<p align="left"> <img src ="https://komarev.com/ghpvc/?username=kauecolling&label=Profile%20views&color=0e75b6&style=flat" alt="kauecolling" /> </p>
+<p align="right"> <img src ="https://komarev.com/ghpvc/?username=kauecolling&label=Profile%20views&color=0e75b6&style=flat" alt="kauecolling" /> </p>
  

@@ -38,9 +38,6 @@ public class ProductVarietions {
         BeanUtils.copyProperties(dto, this);
     }
 
-    public PVGetDTO toGetDTO() {
-        return new PVGetDTO(this.name, this.price, this.stock);
-    }
 
 //    {
 //        "name": "Ração pequena",

@@ -20,13 +20,13 @@ public class ProductVarietions {
     @NonNull
     private Long id;
 
-    @Column(nullable = false)
+    @Column(unique = true, nullable = false)
     private String name;
 
-    @Column(nullable = false)
+    @Column(unique = true, nullable = false)
     private Double price;
 
-    @Column(nullable = false)
+    @Column(unique = true, nullable = false)
     private Integer stock;
 
     @ManyToOne
